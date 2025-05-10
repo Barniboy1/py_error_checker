@@ -1,4 +1,4 @@
-````
+
 # Python Script Error Catcher (Drag & Drop GUI)
 
 A simple Python script for easily debugging `.py` files with an intuitive **Drag & Drop** interface. This tool catches and displays both **outputs** and **errors** generated when running Python scripts, allowing for easy troubleshooting.
@@ -29,7 +29,7 @@ A simple Python script for easily debugging `.py` files with an intuitive **Drag
 1. Clone the repository:
    ```bash
    git clone https://github.com/Barniboy1/py_error_checker.git
-````
+
 
 2. Navigate to the project directory:
 
