@@ -68,7 +68,7 @@ You can use this tool to **debug** your Python scripts easily and visually. This
 ## Video Tutorial
 
 Watch the video tutorial to see how to use the Python Script Error Catcher in action:
-[Showcase video]([https://www.youtube.com/shorts/EOrPWrg3BWk])
+[Showcase video](https://www.youtube.com/shorts/EOrPWrg3BWk)
 
 ## Contributing
 
