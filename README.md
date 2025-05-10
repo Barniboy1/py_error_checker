@@ -63,7 +63,7 @@ You can use this tool to **debug** your Python scripts easily and visually. This
 
 ## Screenshots
 
-![Screenshot]([screenshots/screenshot.png](https://github.com/Barniboy1/py_error_checker/blob/main/screenshot.png))
+![Screenshot](screenshot.png)
 
 ## Video Tutorial
 
